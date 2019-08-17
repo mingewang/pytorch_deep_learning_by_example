@@ -3,4 +3,4 @@ Sample code for book: Pytorch Deep Learning By Example
 
 You can buy this book at:
 
-https://www.amazon.com/dp/1096343584
+https://www.amazon.com/gp/product/B07WKBFSY9/
