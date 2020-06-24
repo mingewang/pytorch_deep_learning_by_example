@@ -8,6 +8,6 @@ https://www.amazon.com/gp/product/B07WKBFSY9/
 
 ## Donation
 
-If this project help you reduce time to develop, donations are welcome.
+If this project is useful to you, donations are welcome.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=96VNRAX955D2Q&source=url)
